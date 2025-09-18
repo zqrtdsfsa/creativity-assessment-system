@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "div_1",
+    "type": "divergent_thinking",
+    "title": "发散思维题 1",
+    "content": "请尽可能多地列举出塑料瓶的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_2",
+    "type": "divergent_thinking",
+    "title": "发散思维题 2",
+    "content": "请尽可能多地列举出纸箱的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_3",
+    "type": "divergent_thinking",
+    "title": "发散思维题 3",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_4",
+    "type": "divergent_thinking",
+    "title": "发散思维题 4",
+    "content": "请尽可能多地列举出砖头的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_5",
+    "type": "divergent_thinking",
+    "title": "发散思维题 5",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_6",
+    "type": "divergent_thinking",
+    "title": "发散思维题 6",
+    "content": "请尽可能多地列举出回形针的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_7",
+    "type": "divergent_thinking",
+    "title": "发散思维题 7",
+    "content": "请尽可能多地列举出报纸的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_8",
+    "type": "divergent_thinking",
+    "title": "发散思维题 8",
+    "content": "请尽可能多地列举出砖头的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_9",
+    "type": "divergent_thinking",
+    "title": "发散思维题 9",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_10",
+    "type": "divergent_thinking",
+    "title": "发散思维题 10",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_11",
+    "type": "divergent_thinking",
+    "title": "发散思维题 11",
+    "content": "请尽可能多地列举出回形针的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_12",
+    "type": "divergent_thinking",
+    "title": "发散思维题 12",
+    "content": "请尽可能多地列举出雨伞的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_13",
+    "type": "divergent_thinking",
+    "title": "发散思维题 13",
+    "content": "请尽可能多地列举出报纸的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_14",
+    "type": "divergent_thinking",
+    "title": "发散思维题 14",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_15",
+    "type": "divergent_thinking",
+    "title": "发散思维题 15",
+    "content": "请尽可能多地列举出砖头的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_16",
+    "type": "divergent_thinking",
+    "title": "发散思维题 16",
+    "content": "请尽可能多地列举出报纸的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_17",
+    "type": "divergent_thinking",
+    "title": "发散思维题 17",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_18",
+    "type": "divergent_thinking",
+    "title": "发散思维题 18",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_19",
+    "type": "divergent_thinking",
+    "title": "发散思维题 19",
+    "content": "请尽可能多地列举出绳子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_20",
+    "type": "divergent_thinking",
+    "title": "发散思维题 20",
+    "content": "请尽可能多地列举出纸箱的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_21",
+    "type": "divergent_thinking",
+    "title": "发散思维题 21",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_22",
+    "type": "divergent_thinking",
+    "title": "发散思维题 22",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_23",
+    "type": "divergent_thinking",
+    "title": "发散思维题 23",
+    "content": "请尽可能多地列举出绳子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_24",
+    "type": "divergent_thinking",
+    "title": "发散思维题 24",
+    "content": "请尽可能多地列举出绳子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_25",
+    "type": "divergent_thinking",
+    "title": "发散思维题 25",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_26",
+    "type": "divergent_thinking",
+    "title": "发散思维题 26",
+    "content": "请尽可能多地列举出砖头的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_27",
+    "type": "divergent_thinking",
+    "title": "发散思维题 27",
+    "content": "请尽可能多地列举出塑料瓶的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_28",
+    "type": "divergent_thinking",
+    "title": "发散思维题 28",
+    "content": "请尽可能多地列举出橡皮筋的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_29",
+    "type": "divergent_thinking",
+    "title": "发散思维题 29",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_30",
+    "type": "divergent_thinking",
+    "title": "发散思维题 30",
+    "content": "请尽可能多地列举出纸箱的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_31",
+    "type": "divergent_thinking",
+    "title": "发散思维题 31",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_32",
+    "type": "divergent_thinking",
+    "title": "发散思维题 32",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_33",
+    "type": "divergent_thinking",
+    "title": "发散思维题 33",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_34",
+    "type": "divergent_thinking",
+    "title": "发散思维题 34",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_35",
+    "type": "divergent_thinking",
+    "title": "发散思维题 35",
+    "content": "请尽可能多地列举出报纸的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_36",
+    "type": "divergent_thinking",
+    "title": "发散思维题 36",
+    "content": "请尽可能多地列举出雨伞的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_37",
+    "type": "divergent_thinking",
+    "title": "发散思维题 37",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_38",
+    "type": "divergent_thinking",
+    "title": "发散思维题 38",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_39",
+    "type": "divergent_thinking",
+    "title": "发散思维题 39",
+    "content": "请尽可能多地列举出雨伞的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_40",
+    "type": "divergent_thinking",
+    "title": "发散思维题 40",
+    "content": "请尽可能多地列举出砖头的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_41",
+    "type": "divergent_thinking",
+    "title": "发散思维题 41",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_42",
+    "type": "divergent_thinking",
+    "title": "发散思维题 42",
+    "content": "请尽可能多地列举出橡皮筋的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_43",
+    "type": "divergent_thinking",
+    "title": "发散思维题 43",
+    "content": "请尽可能多地列举出橡皮筋的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_44",
+    "type": "divergent_thinking",
+    "title": "发散思维题 44",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_45",
+    "type": "divergent_thinking",
+    "title": "发散思维题 45",
+    "content": "请尽可能多地列举出绳子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_46",
+    "type": "divergent_thinking",
+    "title": "发散思维题 46",
+    "content": "请尽可能多地列举出橡皮筋的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_47",
+    "type": "divergent_thinking",
+    "title": "发散思维题 47",
+    "content": "请尽可能多地列举出雨伞的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_48",
+    "type": "divergent_thinking",
+    "title": "发散思维题 48",
+    "content": "请尽可能多地列举出雨伞的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_49",
+    "type": "divergent_thinking",
+    "title": "发散思维题 49",
+    "content": "请尽可能多地列举出回形针的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_50",
+    "type": "divergent_thinking",
+    "title": "发散思维题 50",
+    "content": "请尽可能多地列举出报纸的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_51",
+    "type": "divergent_thinking",
+    "title": "发散思维题 51",
+    "content": "请尽可能多地列举出报纸的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_52",
+    "type": "divergent_thinking",
+    "title": "发散思维题 52",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_53",
+    "type": "divergent_thinking",
+    "title": "发散思维题 53",
+    "content": "请尽可能多地列举出砖头的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_54",
+    "type": "divergent_thinking",
+    "title": "发散思维题 54",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_55",
+    "type": "divergent_thinking",
+    "title": "发散思维题 55",
+    "content": "请尽可能多地列举出塑料瓶的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_56",
+    "type": "divergent_thinking",
+    "title": "发散思维题 56",
+    "content": "请尽可能多地列举出橡皮筋的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_57",
+    "type": "divergent_thinking",
+    "title": "发散思维题 57",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_58",
+    "type": "divergent_thinking",
+    "title": "发散思维题 58",
+    "content": "请尽可能多地列举出砖头的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_59",
+    "type": "divergent_thinking",
+    "title": "发散思维题 59",
+    "content": "请尽可能多地列举出塑料瓶的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_60",
+    "type": "divergent_thinking",
+    "title": "发散思维题 60",
+    "content": "请尽可能多地列举出砖头的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_61",
+    "type": "divergent_thinking",
+    "title": "发散思维题 61",
+    "content": "请尽可能多地列举出绳子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_62",
+    "type": "divergent_thinking",
+    "title": "发散思维题 62",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_63",
+    "type": "divergent_thinking",
+    "title": "发散思维题 63",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_64",
+    "type": "divergent_thinking",
+    "title": "发散思维题 64",
+    "content": "请尽可能多地列举出砖头的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_65",
+    "type": "divergent_thinking",
+    "title": "发散思维题 65",
+    "content": "请尽可能多地列举出纸箱的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_66",
+    "type": "divergent_thinking",
+    "title": "发散思维题 66",
+    "content": "请尽可能多地列举出砖头的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_67",
+    "type": "divergent_thinking",
+    "title": "发散思维题 67",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_68",
+    "type": "divergent_thinking",
+    "title": "发散思维题 68",
+    "content": "请尽可能多地列举出雨伞的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_69",
+    "type": "divergent_thinking",
+    "title": "发散思维题 69",
+    "content": "请尽可能多地列举出回形针的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_70",
+    "type": "divergent_thinking",
+    "title": "发散思维题 70",
+    "content": "请尽可能多地列举出橡皮筋的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_71",
+    "type": "divergent_thinking",
+    "title": "发散思维题 71",
+    "content": "请尽可能多地列举出塑料瓶的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_72",
+    "type": "divergent_thinking",
+    "title": "发散思维题 72",
+    "content": "请尽可能多地列举出绳子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_73",
+    "type": "divergent_thinking",
+    "title": "发散思维题 73",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_74",
+    "type": "divergent_thinking",
+    "title": "发散思维题 74",
+    "content": "请尽可能多地列举出纸箱的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_75",
+    "type": "divergent_thinking",
+    "title": "发散思维题 75",
+    "content": "请尽可能多地列举出纸箱的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_76",
+    "type": "divergent_thinking",
+    "title": "发散思维题 76",
+    "content": "请尽可能多地列举出砖头的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_77",
+    "type": "divergent_thinking",
+    "title": "发散思维题 77",
+    "content": "请尽可能多地列举出雨伞的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_78",
+    "type": "divergent_thinking",
+    "title": "发散思维题 78",
+    "content": "请尽可能多地列举出回形针的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_79",
+    "type": "divergent_thinking",
+    "title": "发散思维题 79",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_80",
+    "type": "divergent_thinking",
+    "title": "发散思维题 80",
+    "content": "请尽可能多地列举出雨伞的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_81",
+    "type": "divergent_thinking",
+    "title": "发散思维题 81",
+    "content": "请尽可能多地列举出雨伞的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_82",
+    "type": "divergent_thinking",
+    "title": "发散思维题 82",
+    "content": "请尽可能多地列举出回形针的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_83",
+    "type": "divergent_thinking",
+    "title": "发散思维题 83",
+    "content": "请尽可能多地列举出橡皮筋的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_84",
+    "type": "divergent_thinking",
+    "title": "发散思维题 84",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_85",
+    "type": "divergent_thinking",
+    "title": "发散思维题 85",
+    "content": "请尽可能多地列举出绳子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_86",
+    "type": "divergent_thinking",
+    "title": "发散思维题 86",
+    "content": "请尽可能多地列举出回形针的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_87",
+    "type": "divergent_thinking",
+    "title": "发散思维题 87",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_88",
+    "type": "divergent_thinking",
+    "title": "发散思维题 88",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_89",
+    "type": "divergent_thinking",
+    "title": "发散思维题 89",
+    "content": "请尽可能多地列举出回形针的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_90",
+    "type": "divergent_thinking",
+    "title": "发散思维题 90",
+    "content": "请尽可能多地列举出雨伞的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_91",
+    "type": "divergent_thinking",
+    "title": "发散思维题 91",
+    "content": "请尽可能多地列举出回形针的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_92",
+    "type": "divergent_thinking",
+    "title": "发散思维题 92",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_93",
+    "type": "divergent_thinking",
+    "title": "发散思维题 93",
+    "content": "请尽可能多地列举出旧衣服的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_94",
+    "type": "divergent_thinking",
+    "title": "发散思维题 94",
+    "content": "请尽可能多地列举出绳子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_95",
+    "type": "divergent_thinking",
+    "title": "发散思维题 95",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_96",
+    "type": "divergent_thinking",
+    "title": "发散思维题 96",
+    "content": "请尽可能多地列举出橡皮筋的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_97",
+    "type": "divergent_thinking",
+    "title": "发散思维题 97",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_98",
+    "type": "divergent_thinking",
+    "title": "发散思维题 98",
+    "content": "请尽可能多地列举出纸箱的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_99",
+    "type": "divergent_thinking",
+    "title": "发散思维题 99",
+    "content": "请尽可能多地列举出勺子的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  },
+  {
+    "id": "div_100",
+    "type": "divergent_thinking",
+    "title": "发散思维题 100",
+    "content": "请尽可能多地列举出回形针的用途。至少写出10个不同的用途。",
+    "time_limit": 300,
+    "dimensions": [
+      "fluency",
+      "flexibility"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.519530"
+  }
+]

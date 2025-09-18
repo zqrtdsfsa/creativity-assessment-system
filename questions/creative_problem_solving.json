@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "cre_1",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 1",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_2",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 2",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_3",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 3",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何让城市更环保。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_4",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 4",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何让城市更环保。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_5",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 5",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_6",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 6",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_7",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 7",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何让城市更环保。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_8",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 8",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_9",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 9",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_10",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 10",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提高学习效率。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_11",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 11",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_12",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 12",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_13",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 13",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_14",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 14",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_15",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 15",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何让城市更环保。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_16",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 16",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_17",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 17",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提升社区安全。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_18",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 18",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何让城市更环保。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_19",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 19",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提高学习效率。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_20",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 20",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_21",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 21",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提升社区安全。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_22",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 22",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_23",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 23",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_24",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 24",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_25",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 25",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_26",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 26",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_27",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 27",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提升社区安全。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_28",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 28",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_29",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 29",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_30",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 30",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_31",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 31",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_32",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 32",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提高学习效率。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_33",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 33",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_34",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 34",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提升社区安全。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_35",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 35",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_36",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 36",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_37",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 37",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_38",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 38",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_39",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 39",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_40",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 40",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_41",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 41",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何让城市更环保。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_42",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 42",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_43",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 43",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_44",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 44",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_45",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 45",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_46",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 46",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_47",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 47",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_48",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 48",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提高学习效率。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_49",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 49",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_50",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 50",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_51",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 51",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何让城市更环保。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_52",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 52",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何让城市更环保。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_53",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 53",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提升社区安全。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_54",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 54",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何让城市更环保。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_55",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 55",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提高学习效率。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_56",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 56",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提高学习效率。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_57",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 57",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_58",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 58",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_59",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 59",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提升社区安全。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_60",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 60",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提高学习效率。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_61",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 61",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提高学习效率。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_62",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 62",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_63",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 63",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_64",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 64",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何让城市更环保。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_65",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 65",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_66",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 66",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_67",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 67",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_68",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 68",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_69",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 69",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_70",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 70",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何让城市更环保。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_71",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 71",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_72",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 72",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_73",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 73",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提升社区安全。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_74",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 74",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提高学习效率。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_75",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 75",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_76",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 76",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_77",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 77",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_78",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 78",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_79",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 79",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_80",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 80",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何让城市更环保。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_81",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 81",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_82",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 82",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_83",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 83",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何让城市更环保。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_84",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 84",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提升社区安全。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_85",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 85",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_86",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 86",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_87",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 87",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_88",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 88",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_89",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 89",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_90",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 90",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提高学习效率。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_91",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 91",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_92",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 92",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_93",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 93",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何节约用水。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_94",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 94",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提升社区安全。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_95",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 95",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提升社区安全。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_96",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 96",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少交通拥堵。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_97",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 97",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何减少食物浪费。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_98",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 98",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.526906"
+  },
+  {
+    "id": "cre_99",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 99",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何提高学习效率。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.527908"
+  },
+  {
+    "id": "cre_100",
+    "type": "creative_problem_solving",
+    "title": "创造性问题解决 100",
+    "content": "请设计一个创新的解决方案来解决以下问题：如何降低校园垃圾。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.527908"
+  }
+]

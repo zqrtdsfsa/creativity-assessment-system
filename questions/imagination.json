@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "ima_1",
+    "type": "imagination",
+    "title": "想象力测试 1",
+    "content": "请描述一个想象中的外星球，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_2",
+    "type": "imagination",
+    "title": "想象力测试 2",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_3",
+    "type": "imagination",
+    "title": "想象力测试 3",
+    "content": "请描述一个想象中的未来学校，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_4",
+    "type": "imagination",
+    "title": "想象力测试 4",
+    "content": "请描述一个想象中的外星球，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_5",
+    "type": "imagination",
+    "title": "想象力测试 5",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_6",
+    "type": "imagination",
+    "title": "想象力测试 6",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_7",
+    "type": "imagination",
+    "title": "想象力测试 7",
+    "content": "请描述一个想象中的未来学校，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_8",
+    "type": "imagination",
+    "title": "想象力测试 8",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_9",
+    "type": "imagination",
+    "title": "想象力测试 9",
+    "content": "请描述一个想象中的海底城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_10",
+    "type": "imagination",
+    "title": "想象力测试 10",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_11",
+    "type": "imagination",
+    "title": "想象力测试 11",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_12",
+    "type": "imagination",
+    "title": "想象力测试 12",
+    "content": "请描述一个想象中的外星球，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_13",
+    "type": "imagination",
+    "title": "想象力测试 13",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_14",
+    "type": "imagination",
+    "title": "想象力测试 14",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_15",
+    "type": "imagination",
+    "title": "想象力测试 15",
+    "content": "请描述一个想象中的蒸汽朋克城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_16",
+    "type": "imagination",
+    "title": "想象力测试 16",
+    "content": "请描述一个想象中的海底城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_17",
+    "type": "imagination",
+    "title": "想象力测试 17",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_18",
+    "type": "imagination",
+    "title": "想象力测试 18",
+    "content": "请描述一个想象中的海底城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_19",
+    "type": "imagination",
+    "title": "想象力测试 19",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_20",
+    "type": "imagination",
+    "title": "想象力测试 20",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_21",
+    "type": "imagination",
+    "title": "想象力测试 21",
+    "content": "请描述一个想象中的蒸汽朋克城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_22",
+    "type": "imagination",
+    "title": "想象力测试 22",
+    "content": "请描述一个想象中的海底城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_23",
+    "type": "imagination",
+    "title": "想象力测试 23",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_24",
+    "type": "imagination",
+    "title": "想象力测试 24",
+    "content": "请描述一个想象中的蒸汽朋克城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_25",
+    "type": "imagination",
+    "title": "想象力测试 25",
+    "content": "请描述一个想象中的未来学校，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_26",
+    "type": "imagination",
+    "title": "想象力测试 26",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_27",
+    "type": "imagination",
+    "title": "想象力测试 27",
+    "content": "请描述一个想象中的蒸汽朋克城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_28",
+    "type": "imagination",
+    "title": "想象力测试 28",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_29",
+    "type": "imagination",
+    "title": "想象力测试 29",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_30",
+    "type": "imagination",
+    "title": "想象力测试 30",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_31",
+    "type": "imagination",
+    "title": "想象力测试 31",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_32",
+    "type": "imagination",
+    "title": "想象力测试 32",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_33",
+    "type": "imagination",
+    "title": "想象力测试 33",
+    "content": "请描述一个想象中的海底城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_34",
+    "type": "imagination",
+    "title": "想象力测试 34",
+    "content": "请描述一个想象中的外星球，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_35",
+    "type": "imagination",
+    "title": "想象力测试 35",
+    "content": "请描述一个想象中的未来学校，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_36",
+    "type": "imagination",
+    "title": "想象力测试 36",
+    "content": "请描述一个想象中的外星球，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_37",
+    "type": "imagination",
+    "title": "想象力测试 37",
+    "content": "请描述一个想象中的蒸汽朋克城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_38",
+    "type": "imagination",
+    "title": "想象力测试 38",
+    "content": "请描述一个想象中的蒸汽朋克城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_39",
+    "type": "imagination",
+    "title": "想象力测试 39",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_40",
+    "type": "imagination",
+    "title": "想象力测试 40",
+    "content": "请描述一个想象中的未来学校，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_41",
+    "type": "imagination",
+    "title": "想象力测试 41",
+    "content": "请描述一个想象中的海底城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_42",
+    "type": "imagination",
+    "title": "想象力测试 42",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_43",
+    "type": "imagination",
+    "title": "想象力测试 43",
+    "content": "请描述一个想象中的外星球，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_44",
+    "type": "imagination",
+    "title": "想象力测试 44",
+    "content": "请描述一个想象中的蒸汽朋克城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_45",
+    "type": "imagination",
+    "title": "想象力测试 45",
+    "content": "请描述一个想象中的外星球，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_46",
+    "type": "imagination",
+    "title": "想象力测试 46",
+    "content": "请描述一个想象中的蒸汽朋克城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_47",
+    "type": "imagination",
+    "title": "想象力测试 47",
+    "content": "请描述一个想象中的海底城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_48",
+    "type": "imagination",
+    "title": "想象力测试 48",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_49",
+    "type": "imagination",
+    "title": "想象力测试 49",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_50",
+    "type": "imagination",
+    "title": "想象力测试 50",
+    "content": "请描述一个想象中的外星球，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_51",
+    "type": "imagination",
+    "title": "想象力测试 51",
+    "content": "请描述一个想象中的未来学校，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_52",
+    "type": "imagination",
+    "title": "想象力测试 52",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_53",
+    "type": "imagination",
+    "title": "想象力测试 53",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_54",
+    "type": "imagination",
+    "title": "想象力测试 54",
+    "content": "请描述一个想象中的蒸汽朋克城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_55",
+    "type": "imagination",
+    "title": "想象力测试 55",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_56",
+    "type": "imagination",
+    "title": "想象力测试 56",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_57",
+    "type": "imagination",
+    "title": "想象力测试 57",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_58",
+    "type": "imagination",
+    "title": "想象力测试 58",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_59",
+    "type": "imagination",
+    "title": "想象力测试 59",
+    "content": "请描述一个想象中的未来学校，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_60",
+    "type": "imagination",
+    "title": "想象力测试 60",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_61",
+    "type": "imagination",
+    "title": "想象力测试 61",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_62",
+    "type": "imagination",
+    "title": "想象力测试 62",
+    "content": "请描述一个想象中的外星球，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_63",
+    "type": "imagination",
+    "title": "想象力测试 63",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_64",
+    "type": "imagination",
+    "title": "想象力测试 64",
+    "content": "请描述一个想象中的蒸汽朋克城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_65",
+    "type": "imagination",
+    "title": "想象力测试 65",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_66",
+    "type": "imagination",
+    "title": "想象力测试 66",
+    "content": "请描述一个想象中的未来学校，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_67",
+    "type": "imagination",
+    "title": "想象力测试 67",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_68",
+    "type": "imagination",
+    "title": "想象力测试 68",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_69",
+    "type": "imagination",
+    "title": "想象力测试 69",
+    "content": "请描述一个想象中的外星球，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_70",
+    "type": "imagination",
+    "title": "想象力测试 70",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_71",
+    "type": "imagination",
+    "title": "想象力测试 71",
+    "content": "请描述一个想象中的未来学校，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_72",
+    "type": "imagination",
+    "title": "想象力测试 72",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_73",
+    "type": "imagination",
+    "title": "想象力测试 73",
+    "content": "请描述一个想象中的外星球，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_74",
+    "type": "imagination",
+    "title": "想象力测试 74",
+    "content": "请描述一个想象中的蒸汽朋克城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_75",
+    "type": "imagination",
+    "title": "想象力测试 75",
+    "content": "请描述一个想象中的未来学校，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_76",
+    "type": "imagination",
+    "title": "想象力测试 76",
+    "content": "请描述一个想象中的海底城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_77",
+    "type": "imagination",
+    "title": "想象力测试 77",
+    "content": "请描述一个想象中的未来学校，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_78",
+    "type": "imagination",
+    "title": "想象力测试 78",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_79",
+    "type": "imagination",
+    "title": "想象力测试 79",
+    "content": "请描述一个想象中的蒸汽朋克城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_80",
+    "type": "imagination",
+    "title": "想象力测试 80",
+    "content": "请描述一个想象中的蒸汽朋克城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_81",
+    "type": "imagination",
+    "title": "想象力测试 81",
+    "content": "请描述一个想象中的海底城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_82",
+    "type": "imagination",
+    "title": "想象力测试 82",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_83",
+    "type": "imagination",
+    "title": "想象力测试 83",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_84",
+    "type": "imagination",
+    "title": "想象力测试 84",
+    "content": "请描述一个想象中的海底城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_85",
+    "type": "imagination",
+    "title": "想象力测试 85",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_86",
+    "type": "imagination",
+    "title": "想象力测试 86",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_87",
+    "type": "imagination",
+    "title": "想象力测试 87",
+    "content": "请描述一个想象中的外星球，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_88",
+    "type": "imagination",
+    "title": "想象力测试 88",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_89",
+    "type": "imagination",
+    "title": "想象力测试 89",
+    "content": "请描述一个想象中的未来学校，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_90",
+    "type": "imagination",
+    "title": "想象力测试 90",
+    "content": "请描述一个想象中的天空之城，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_91",
+    "type": "imagination",
+    "title": "想象力测试 91",
+    "content": "请描述一个想象中的海底城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_92",
+    "type": "imagination",
+    "title": "想象力测试 92",
+    "content": "请描述一个想象中的未来学校，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_93",
+    "type": "imagination",
+    "title": "想象力测试 93",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_94",
+    "type": "imagination",
+    "title": "想象力测试 94",
+    "content": "请描述一个想象中的海底城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_95",
+    "type": "imagination",
+    "title": "想象力测试 95",
+    "content": "请描述一个想象中的未来学校，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_96",
+    "type": "imagination",
+    "title": "想象力测试 96",
+    "content": "请描述一个想象中的外星球，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_97",
+    "type": "imagination",
+    "title": "想象力测试 97",
+    "content": "请描述一个想象中的蒸汽朋克城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_98",
+    "type": "imagination",
+    "title": "想象力测试 98",
+    "content": "请描述一个想象中的微缩世界，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_99",
+    "type": "imagination",
+    "title": "想象力测试 99",
+    "content": "请描述一个想象中的蒸汽朋克城市，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  },
+  {
+    "id": "ima_100",
+    "type": "imagination",
+    "title": "想象力测试 100",
+    "content": "请描述一个想象中的外星球，要求具有创新性和独特性。",
+    "time_limit": 300,
+    "dimensions": [
+      "originality",
+      "elaboration"
+    ],
+    "scoring_criteria": {
+      "fluency_weight": 0.3,
+      "flexibility_weight": 0.3,
+      "originality_weight": 0.2,
+      "elaboration_weight": 0.2
+    },
+    "generated_at": "2025-09-17T21:41:43.531290"
+  }
+]

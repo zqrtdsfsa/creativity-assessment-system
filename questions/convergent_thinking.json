@@ -1,0 +1,913 @@
+[
+  {
+    "id": "ct_1",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 1",
+    "content": "请找出以下物品的共同点：铅笔、钢笔、毛笔。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_2",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 2",
+    "content": "请找出以下物品的共同点：苹果、香蕉、橙子。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_3",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 3",
+    "content": "请找出以下物品的共同点：自行车、摩托车、电动车。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_4",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 4",
+    "content": "请找出以下物品的共同点：雨伞、雨衣、雨靴。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_5",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 5",
+    "content": "请找出以下物品的共同点：冰箱、洗衣机、微波炉。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_6",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 6",
+    "content": "请找出以下物品的共同点：钢琴、吉他、小提琴。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_7",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 7",
+    "content": "请找出以下物品的共同点：太阳、月亮、星星。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_8",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 8",
+    "content": "请找出以下物品的共同点：火车、飞机、轮船。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_9",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 9",
+    "content": "请找出以下物品的共同点：书、杂志、报纸。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_10",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 10",
+    "content": "请找出以下物品的共同点：椅子、沙发、凳子。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_11",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 11",
+    "content": "请找出以下物品的共同点：手机、平板、笔记本电脑。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_12",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 12",
+    "content": "请找出以下物品的共同点：足球、篮球、排球。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_13",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 13",
+    "content": "请找出以下物品的共同点：玫瑰、百合、菊花。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_14",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 14",
+    "content": "请找出以下物品的共同点：钥匙、锁、门禁卡。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_15",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 15",
+    "content": "请找出以下物品的共同点：镜子、梳子、口红。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_16",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 16",
+    "content": "请找出以下物品的共同点：牙刷、牙膏、漱口水。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_17",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 17",
+    "content": "请找出以下物品的共同点：床、枕头、被子。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_18",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 18",
+    "content": "请找出以下物品的共同点：咖啡、茶、可乐。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_19",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 19",
+    "content": "请找出以下物品的共同点：手表、闹钟、沙漏。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_20",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 20",
+    "content": "请找出以下物品的共同点：地图、指南针、GPS导航仪。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+
+  {
+    "id": "ct_21",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 21",
+    "content": "请找出以下物品的共同点：锤子、螺丝刀、扳手。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_22",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 22",
+    "content": "请找出以下物品的共同点：蜡烛、油灯、手电筒。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_23",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 23",
+    "content": "请找出以下物品的共同点：风筝、气球、无人机。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_24",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 24",
+    "content": "请找出以下物品的共同点：雪糕、冰淇淋、冰棍。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_25",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 25",
+    "content": "请找出以下物品的共同点：邮票、信封、明信片。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_26",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 26",
+    "content": "请找出以下物品的共同点：相机、望远镜、显微镜。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_27",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 27",
+    "content": "请找出以下物品的共同点：围巾、手套、帽子。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_28",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 28",
+    "content": "请找出以下物品的共同点：橡皮、修正带、涂改液。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_29",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 29",
+    "content": "请找出以下物品的共同点：积木、拼图、乐高。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_30",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 30",
+    "content": "请找出以下物品的共同点：风筝、纸飞机、飞盘。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+
+  {
+    "id": "ct_31",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 31",
+    "content": "请找出以下物品的共同点：台灯、吊灯、壁灯。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_32",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 32",
+    "content": "请找出以下物品的共同点：锅、碗、盘子。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_33",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 33",
+    "content": "请找出以下物品的共同点：拖鞋、运动鞋、皮鞋。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_34",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 34",
+    "content": "请找出以下物品的共同点：滑翔伞、降落伞、热气球。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_35",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 35",
+    "content": "请找出以下物品的共同点：耳机、音响、麦克风。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_36",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 36",
+    "content": "请找出以下物品的共同点：剪刀、裁纸刀、美工刀。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_37",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 37",
+    "content": "请找出以下物品的共同点：热气球、滑翔机、风筝。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_38",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 38",
+    "content": "请找出以下物品的共同点：书包、公文包、双肩背包。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_39",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 39",
+    "content": "请找出以下物品的共同点：口琴、笛子、萨克斯。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_40",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 40",
+    "content": "请找出以下物品的共同点：泳镜、泳帽、泳衣。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+
+  {
+    "id": "ct_41",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 41",
+    "content": "请找出以下物品的共同点：扫帚、拖把、吸尘器。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_42",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 42",
+    "content": "请找出以下物品的共同点：风车、风铃、风筝。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_43",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 43",
+    "content": "请找出以下物品的共同点：印章、签名笔、指纹识别器。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_44",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 44",
+    "content": "请找出以下物品的共同点：口红、眼影、粉饼。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_45",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 45",
+    "content": "请找出以下物品的共同点：书签、便签纸、荧光贴。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_46",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 46",
+    "content": "请找出以下物品的共同点：水杯、保温杯、玻璃杯。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_47",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 47",
+    "content": "请找出以下物品的共同点：眼镜、隐形眼镜、老花镜。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_48",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 48",
+    "content": "请找出以下物品的共同点：创可贴、碘伏棉签、纱布绷带。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_49",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 49",
+    "content": "请找出以下物品的共同点：鼠标、键盘、触控板。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_50",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 50",
+    "content": "请找出以下物品的共同点：钱包、卡包、零钱包。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+
+  {
+    "id": "ct_51",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 51",
+    "content": "请找出以下物品的共同点：黑板、白板、绿板。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_52",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 52",
+    "content": "请找出以下物品的共同点：胶水、固体胶、胶棒。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_53",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 53",
+    "content": "请找出以下物品的共同点：尺子、三角板、量角器。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_54",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 54",
+    "content": "请找出以下物品的共同点：订书机、打孔器、长尾夹。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_55",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 55",
+    "content": "请找出以下物品的共同点：计算器、电子词典、计时器。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_56",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 56",
+    "content": "请找出以下物品的共同点：地球仪、地形图、行政区划图。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_57",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 57",
+    "content": "请找出以下物品的共同点：闹钟、日历、月历。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_58",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 58",
+    "content": "请找出以下物品的共同点：行李箱、旅行背包、手提包。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_59",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 59",
+    "content": "请找出以下物品的共同点：灭火器、急救箱、应急灯。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_60",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 60",
+    "content": "请找出以下物品的共同点：遥控器、游戏手柄、鼠标。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  
+
+  {
+    "id": "ct_61",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 61",
+    "content": "请找出以下物品的共同点：相框、画框、证书框。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_62",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 62",
+    "content": "请找出以下物品的共同点：垃圾桶、分类回收桶、厨余桶。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_63",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 63",
+    "content": "请找出以下物品的共同点：名片、工牌、学生证。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_64",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 64",
+    "content": "请找出以下物品的共同点：挂钩、衣帽钩、吸盘挂架。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_65",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 65",
+    "content": "请找出以下物品的共同点：门把手、抽屉拉手、橱柜把手。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_66",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 66",
+    "content": "请找出以下物品的共同点：插座、插线板、USB充电器。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_67",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 67",
+    "content": "请找出以下物品的共同点：窗帘、百叶窗、卷帘。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_68",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 68",
+    "content": "请找出以下物品的共同点：毛巾、浴巾、方巾。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_69",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 69",
+    "content": "请找出以下物品的共同点：衣架、裤架、领带架。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_70",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 70",
+    "content": "请找出以下物品的共同点：牙刷杯、漱口杯、水杯架。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  
+
+  {
+    "id": "ct_71",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 71",
+    "content": "请找出以下物品的共同点：锅铲、汤勺、漏勺。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_72",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 72",
+    "content": "请找出以下物品的共同点：洗发水、沐浴露、护发素。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_73",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 73",
+    "content": "请找出以下物品的共同点：梳子、发夹、发圈。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_74",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 74",
+    "content": "请找出以下物品的共同点：台历、周计划本、记事贴。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_75",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 75",
+    "content": "请找出以下物品的共同点：文件夹、档案袋、活页夹。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_76",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 76",
+    "content": "请找出以下物品的共同点：订书钉、回形针、长尾夹。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_77",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 77",
+    "content": "请找出以下物品的共同点：圆珠笔、中性笔、记号笔。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_78",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 78",
+    "content": "请找出以下物品的共同点：便利贴、索引贴、标签纸。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_79",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 79",
+    "content": "请找出以下物品的共同点：拖鞋、凉鞋、棉拖。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_80",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 80",
+    "content": "请找出以下物品的共同点：电风扇、空调、加湿器。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  
+
+  {
+    "id": "ct_81",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 81",
+    "content": "请找出以下物品的共同点：微波炉、烤箱、空气炸锅。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_82",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 82",
+    "content": "请找出以下物品的共同点：洗碗机、消毒柜、净水器。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_83",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 83",
+    "content": "请找出以下物品的共同点：跑步机、动感单车、划船机。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_84",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 84",
+    "content": "请找出以下物品的共同点：哑铃、杠铃、壶铃。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_85",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 85",
+    "content": "请找出以下物品的共同点：瑜伽垫、泡沫轴、拉力带。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_86",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 86",
+    "content": "请找出以下物品的共同点：保温饭盒、便当包、餐盒袋。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_87",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 87",
+    "content": "请找出以下物品的共同点：咖啡机、榨汁机、豆浆机。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_88",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 88",
+    "content": "请找出以下物品的共同点：电吹风、卷发棒、直发器。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_89",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 89",
+    "content": "请找出以下物品的共同点：剃须刀、电动牙刷、洁面仪。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_90",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 90",
+    "content": "请找出以下物品的共同点：血压计、体温计、血糖仪。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+
+  {
+    "id": "ct_91",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 91",
+    "content": "请找出以下物品的共同点：路由器、交换机、调制解调器。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_92",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 92",
+    "content": "请找出以下物品的共同点：U盘、移动硬盘、SD卡。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_93",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 93",
+    "content": "请找出以下物品的共同点：蓝牙耳机、无线音箱、智能手表。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_94",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 94",
+    "content": "请找出以下物品的共同点：投影仪、幕布、激光笔。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_95",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 95",
+    "content": "请找出以下物品的共同点：打印机、扫描仪、复印机。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_96",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 96",
+    "content": "请找出以下物品的共同点：粉笔、白板笔、记号笔。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_97",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 97",
+    "content": "请找出以下物品的共同点：校服、工装、制服。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_98",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 98",
+    "content": "请找出以下物品的共同点：公交卡、地铁卡、校园卡。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_99",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 99",
+    "content": "请找出以下物品的共同点：红绿灯、斑马线、交通标志牌。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  },
+  {
+    "id": "ct_100",
+    "type": "convergent_thinking",
+    "title": "聚合思维题 100",
+    "content": "请找出以下物品的共同点：国旗、国徽、国歌乐谱。至少找出5个共同特征。",
+    "time_limit": 300,
+    "dimensions": ["flexibility", "originality"],
+    "scoring_criteria": {"fluency_weight": 0.3, "flexibility_weight": 0.3, "originality_weight": 0.2, "elaboration_weight": 0.2}
+  }
+]
