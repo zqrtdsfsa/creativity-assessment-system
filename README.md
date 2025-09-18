@@ -41,8 +41,8 @@ pip install -r requirements.txt
 
 3. **配置环境变量**
 ```bash
-# 复制环境变量模板
-cp .env.example .env
+
+修改.env文件，加入llm秘钥
 
 # 编辑.env文件，添加你的API Key
 # 支持OpenAI或SiliconFlow
